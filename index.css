@@ -1,0 +1,39 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.card{
+    width:100%;
+    background: rgb(154,247,248);
+    background: linear-gradient(80deg, rgba(154,247,248,1) 0%, rgba(243,226,189,1) 85%);
+}
+.card-img{
+    width:80%;
+    height:150px;
+    padding: 15px;
+    margin-left: 10%;
+    padding-bottom: 5px;
+}
+.row{
+    row-gap: 20px;
+}
+.card-body{
+    font-weight: 500;
+}
+.card-header{
+    font-weight: bold;
+    background-color: rgb(29, 26, 26);
+    color: whitesmoke;
+}
+#title{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.modal-background{
+    background-color: aquamarine;
+}
