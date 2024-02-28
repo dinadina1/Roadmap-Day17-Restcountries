@@ -5,7 +5,7 @@
 <p>I attached Webpage Screenshots in below:</p>  <br>
 
 <h2>Website URL</h2>
-https://restcountriesweather-info.netlify.app/
+https://restcountries-weatherapi.netlify.app/
 
 <h2>Screenshots</h2>
 <p>1. Its main web page</p>
