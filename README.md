@@ -9,7 +9,7 @@ https://restcountries-weatherapi.netlify.app/
 
 <h2>Screenshots</h2>
 <p>1. Its main web page</p>
-<img src=".images/screenshot1.png" alt="screenshot1"><br>
+<img src="./images/screenshot1.png" alt="screenshot1"><br>
 
 <p>2. Checking Weather</p>
 <img src="./images/screenshot2.png" alt="screenshot2"><br>
